@@ -1,6 +1,6 @@
 ---
 title: Spring boot로 프로젝트 만들기(eclipse maven)
-categories: [springBootMavenSetting]
+categories: [Spring boot로 프로젝트 만들기(eclipse maven)]
 comments: true
 ---
 
