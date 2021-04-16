@@ -18,10 +18,10 @@ google_analytics: #UA�봛XXXXXXX-X
 disqus_shortname: #disqus shortname
 
 user:
-  name: Catbook
-  pic: /assets/img/cat.jpg
-  picAlt: "catbook"
-  job: a category-centric theme
+  name: Lee Dong Hyeon
+  pic: /assets/img/profile.jpg
+  picAlt: "Lee Dong Hyeon"
+  job: jonior developer
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
